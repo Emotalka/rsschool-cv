@@ -1,5 +1,5 @@
 # rsschool-cv
-## Tatsiana Mazanik
+# Tatsiana Mazanik
 ### Contacts
 * Location: Warszawa, Poland
 * Phone: +48 *********
